@@ -199,7 +199,7 @@
 </head>
 <body>
   <header>
-    <img src="https://via.placeholder.com/80?text=Logo" alt="Logo" class="logo">
+    <img src="images/logotip.png" alt="Logo" class="logo">
     <h1>Husanboy Nabijonov</h1>
     <p>Medstone faxriy a'zosi</p>
   </header>
@@ -208,7 +208,7 @@
     <p class="content">
       Assalomu aleykum barchaga!
     </p>
-    <img src="https://via.placeholder.com/800x400.png?text=Rasm" alt="Chiroyli rasm">
+    <img src="images/Husanboy.png" alt="Pass">
     <p class="content">
       Men Husanboy Nabijonov Samarqand Davlat Tibbiyot Universiteti bitiruvchi talabasiman. Bugun step 1 imtihoniga tayyorgarlik jarayonimni sizlar bilan bo'lishmoqchiman.
     </p>
